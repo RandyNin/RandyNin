@@ -15,15 +15,6 @@ Welcome to my GitHub profile! This repository showcases my work, skills, and pro
 
 ---
 
-## 💻 Skills
-
-- **Programming & Scripting:** Python, Bash  
-- **Pentesting:** Ethical hacking, vulnerability research, exploitation techniques, and security assessments  
-- **Systems:** Linux & Windows environments  
-- **Tools:** Offensive security tooling  
-
----
-
 ## 🚀 Projects
 
 Here are some highlighted projects:
@@ -50,11 +41,6 @@ Here are some highlighted projects:
 - GitHub: [RandyNin](https://github.com/RandyNin)  
 - LinkedIn: `<not-available yet>`  
 
----
-
-## ⚡ Fun Fact
-
-I enjoy exploring cybersecurity challenges, learning new scripting techniques, and building educational tools for pentesting.
 
 ---
 
