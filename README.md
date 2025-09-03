@@ -31,7 +31,6 @@ Here are some highlighted projects:
 | Project                                                                                            | Description                                                                             |
 | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | [**c2-backdoor**](https://github.com/RandyNin/c2-backdoor)                                         | Educational Backdoor & Command & Control (C2) system in Python                          |
-| [**malware-firefox-password-export**](https://github.com/RandyNin/malware-firefox-password-export) | Tool to extract saved Firefox credentials (educational purposes)                        |
 | [**forward-shell**](https://github.com/RandyNin/forward-shell)                                     | Python script to simulate an interactive shell when you have a webshell (learning tool) |
 
 ---
