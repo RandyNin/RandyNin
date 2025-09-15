@@ -38,7 +38,7 @@ Here are some highlighted projects:
 ## 📫 Contact
 
 - Email: randynmbusiness@gmail.com  
-- LinkedIn: `<not-available yet>`  
+- LinkedIn: https://do.linkedin.com/in/randynin/  
 
 
 ---
