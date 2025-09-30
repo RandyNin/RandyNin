@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! This repository showcases my work, skills, and projects as a **future penetration tester**.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-Scripting-green?logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-CommandLine-orange?logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-Compatible-blue?logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-Scripting-green?logo=gnu-bash&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-CommandLine-orange?logo=linux&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-Compatible-blue?logo=windows&logoColor=white)
 
 ---
 
