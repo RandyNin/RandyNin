@@ -28,7 +28,7 @@ I actively maintain a practice-driven approach through various platforms and cus
 
 * **Pivoting & Redirection:** Solving complex multi-machine scenarios using tools like Chisel and Socat to bypass network segmentation.
 * **VulnHub & HackTheBox:** Frequent resolution of machines to practice exploitation techniques and privilege escalation.
-* **Network Topologies:** Design and configuration of network infrastructures in **Packet Tracer** and **PNETLab**.
+* **Network Topologies:** Design and configuration of network infrastructures in **Packet Tracer** and **GNS3**.
 
 ---
 
