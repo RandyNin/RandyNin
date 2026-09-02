@@ -6,9 +6,9 @@
   <p>Breaking things to defend them better</p>
 
 [![HTB](https://img.shields.io/badge/Hack_The_Box-50%2B_Machines-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2370320)
-[![Email](https://img.shields.io/badge/Email-randynmbusiness@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randynmbusiness@gmail.com)
 [![Youtube](https://img.shields.io/badge/Youtube-@randynn-FFFFFF?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@randyninn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-randynin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randynin/)
+[![Email](https://img.shields.io/badge/Email-randynmbusiness@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randynmbusiness@gmail.com)
 </div>
 
 ## 🎯 About Me
